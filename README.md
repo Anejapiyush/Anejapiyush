@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Anejapiyush
-- 👀 I’m currently a member of GDSCPGDAV
 - 🌱 I’m currently learning c++ and web development
 
 
